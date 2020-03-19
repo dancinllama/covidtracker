@@ -2,7 +2,7 @@
     "orgName": "aisle9",
     "edition": "Developer",
     "hasSampleData": "false",
-    "features": ["MultiCurrency", "SalesWave","ServiceWave"],
+    "features": ["MultiCurrency", "SalesWave", "ServiceWave"],
     "settings": {
         "orgPreferenceSettings": {
             "s1DesktopEnabled": true,
